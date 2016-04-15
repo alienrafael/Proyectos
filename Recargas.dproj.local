@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/11/08 22:14:42.000.723,=C:\Users\Zero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/08 22:59:04.000.167,=C:\Users\Zero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/24 03:25:21.000.777,=C:\Users\Zero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/24 03:28:04.000.901,=C:\Users\Zero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/26 15:18:27.000.081,=C:\Users\Zero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/06 15:03:31.000.173,=C:\Users\Zero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/10 21:59:24.000.515,=C:\Users\Zero\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2015/12/10 21:59:25.000.137,=C:\Users\Zero\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2015/12/10 21:59:44.000.400,=C:\Users\Zero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/15 23:00:50.000.950,=C:\Users\Zero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/16 00:30:49.000.411,=C:\Users\Zero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/02/08 23:10:19.000.359,=C:\Users\Zero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/02/08 23:10:52.000.130,=E:\Desarrollo\Delphi\XE7\Recargas\UPrincipal.pas</Transaction>
+    <Transaction>2016/02/08 23:11:58.000.815,=E:\Desarrollo\Delphi\Comunes\Func_Globales.pas</Transaction>
+    <Transaction>2016/02/08 23:11:58.000.998,=E:\Desarrollo\Delphi\Comunes\UDM_Plantilla.pas</Transaction>
+    <Transaction>2016/02/08 23:11:58.000.896,=E:\Desarrollo\Delphi\Comunes\UConstantes.pas</Transaction>
+    <Transaction>2016/02/08 23:11:58.000.848,=E:\Desarrollo\Delphi\Comunes\Hashes.pas</Transaction>
+    <Transaction>2016/02/08 23:11:59.000.015,=E:\Desarrollo\Delphi\Comunes\UGlobal.pas</Transaction>
+    <Transaction>2016/02/08 23:12:02.000.315,=E:\Desarrollo\Delphi\Comunes\UPlantillaVentana.pas</Transaction>
+    <Transaction>2016/02/08 23:12:03.000.535,=E:\Desarrollo\Delphi\Comunes\UVentanaEspera.pas</Transaction>
+    <Transaction>2016/02/08 23:12:04.000.184,=E:\Desarrollo\Delphi\Comunes\UVentanaOscura.pas</Transaction>
+    <Transaction>2016/02/08 23:13:24.000.851,C:\Users\Zero\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Desarrollo\Delphi\XE7\Recargas\Recargas.dproj</Transaction>
+    <Transaction>2016/02/14 23:58:15.000.102,=E:\Desarrollo\Delphi\Comunes\UPlantillaVentana.pas</Transaction>
+    <Transaction>2016/02/15 01:09:29.000.403,=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/02/15 01:10:15.000.064,E:\Desarrollo\Delphi\XE7\Recargas\UPais.pas=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/02/15 01:10:15.000.064,E:\Desarrollo\Delphi\XE7\Recargas\UPais.dfm=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.dfm</Transaction>
+    <Transaction>2016/02/15 01:15:54.000.003,=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/02/15 01:23:55.000.508,E:\Desarrollo\Delphi\XE7\Recargas\UDMRecargas.pas=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/02/15 01:23:55.000.508,E:\Desarrollo\Delphi\XE7\Recargas\UDMRecargas.dfm=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.dfm</Transaction>
+    <Transaction>2016/02/17 03:00:26.000.833,=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/02/17 03:00:34.000.308,=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/02/17 03:01:30.000.039,E:\Desarrollo\Delphi\XE7\Recargas\Unit1.dfm=E:\Desarrollo\Delphi\XE7\Recargas\UEstado.dfm</Transaction>
+    <Transaction>2016/02/17 03:01:30.000.039,E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas=E:\Desarrollo\Delphi\XE7\Recargas\UEstado.pas</Transaction>
+    <Transaction>2016/02/28 14:15:06.000.988,=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/02/28 20:45:49.000.298,=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/02/28 20:45:59.000.267,E:\Desarrollo\Delphi\XE7\Recargas\UMunicipio.dfm=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.dfm</Transaction>
+    <Transaction>2016/02/28 20:45:59.000.267,E:\Desarrollo\Delphi\XE7\Recargas\UMunicipio.pas=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/02/28 20:47:56.000.256,=E:\Desarrollo\Delphi\XE7\Recargas\Unit2.pas</Transaction>
+    <Transaction>2016/02/28 20:48:26.000.010,E:\Desarrollo\Delphi\XE7\Recargas\UMunicipio.pas=E:\Desarrollo\Delphi\XE7\Recargas\Unit2.pas</Transaction>
+    <Transaction>2016/02/28 20:48:26.000.010,E:\Desarrollo\Delphi\XE7\Recargas\UMunicipio.dfm=E:\Desarrollo\Delphi\XE7\Recargas\Unit2.dfm</Transaction>
+    <Transaction>2016/04/02 16:24:34.000.862,=E:\Desarrollo\Delphi\Comunes\UMensajeXE5.pas</Transaction>
+    <Transaction>2016/04/02 16:25:57.000.170,=E:\Desarrollo\Delphi\Comunes\UBitacoraD7.pas</Transaction>
+    <Transaction>2016/04/02 16:25:57.000.301,=E:\Desarrollo\Delphi\Comunes\UCargarIniD7.pas</Transaction>
+    <Transaction>2016/04/02 16:25:57.000.225,=E:\Desarrollo\Delphi\Comunes\UCargarIni.pas</Transaction>
+    <Transaction>2016/04/02 16:25:57.000.027,=E:\Desarrollo\Delphi\Comunes\UBitacora.pas</Transaction>
+    <Transaction>2016/04/02 16:25:57.000.399,=E:\Desarrollo\Delphi\Comunes\UCargarLog.pas</Transaction>
+    <Transaction>2016/04/02 17:03:41.000.451,=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/04/02 17:03:52.000.939,E:\Desarrollo\Delphi\XE7\Recargas\uColonia.dfm=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.dfm</Transaction>
+    <Transaction>2016/04/02 17:03:52.000.939,E:\Desarrollo\Delphi\XE7\Recargas\uColonia.pas=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/04/02 17:05:54.000.437,E:\Desarrollo\Delphi\XE7\Recargas\uColonia.pas=</Transaction>
+    <Transaction>2016/04/02 17:05:58.000.214,=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/04/02 17:06:14.000.291,E:\Desarrollo\Delphi\XE7\Recargas\uColonia.pas=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/04/02 17:06:14.000.291,E:\Desarrollo\Delphi\XE7\Recargas\uColonia.dfm=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.dfm</Transaction>
+    <Transaction>2016/04/02 17:06:18.000.302,=E:\Desarrollo\Delphi\XE7\Recargas\Unit2.pas</Transaction>
+    <Transaction>2016/04/02 17:06:25.000.669,E:\Desarrollo\Delphi\XE7\Recargas\UCalle.pas=E:\Desarrollo\Delphi\XE7\Recargas\Unit2.pas</Transaction>
+    <Transaction>2016/04/02 17:06:25.000.669,E:\Desarrollo\Delphi\XE7\Recargas\UCalle.dfm=E:\Desarrollo\Delphi\XE7\Recargas\Unit2.dfm</Transaction>
+    <Transaction>2016/04/02 17:06:30.000.988,E:\Desarrollo\Delphi\XE7\Recargas\uColonia.pas=</Transaction>
+    <Transaction>2016/04/02 17:06:49.000.009,=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/04/02 17:06:57.000.348,E:\Desarrollo\Delphi\XE7\Recargas\UColonia.dfm=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.dfm</Transaction>
+    <Transaction>2016/04/02 17:06:57.000.348,E:\Desarrollo\Delphi\XE7\Recargas\UColonia.pas=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/04/04 01:20:16.000.315,=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+    <Transaction>2016/04/04 01:20:59.000.280,E:\Desarrollo\Delphi\XE7\Recargas\UProveedor.dfm=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.dfm</Transaction>
+    <Transaction>2016/04/04 01:20:59.000.280,E:\Desarrollo\Delphi\XE7\Recargas\UProveedor.pas=E:\Desarrollo\Delphi\XE7\Recargas\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
